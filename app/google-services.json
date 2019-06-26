@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56844047322",
+    "firebase_url": "https://etec-solicitacaoferiasvx.firebaseio.com",
+    "project_id": "etec-solicitacaoferiasvx",
+    "storage_bucket": "etec-solicitacaoferiasvx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56844047322:android:f27e7eb0d0182912",
+        "android_client_info": {
+          "package_name": "br.com.etechoracio.solicitacaoferiasvx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56844047322-mr8udqusnn9l3m7i3f4mi0sqr97sclog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etechoracio.solicitacaoferiasvx",
+            "certificate_hash": "6c27e96497b2c62e1911f45f543cdb1b6875accc"
+          }
+        },
+        {
+          "client_id": "56844047322-fsnq22q4mq2okvkl9l6m7f2v3rea1ajp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBSe_BiSk-nKfBFW4txsh2l_8CKIJxwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56844047322-fsnq22q4mq2okvkl9l6m7f2v3rea1ajp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
